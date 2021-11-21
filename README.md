@@ -1,1 +1,1 @@
-# Spring-Boot-PostgreSQL-API
+# Spring-Boot-REST-API-with-PostgreSQL-Database
